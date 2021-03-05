@@ -4,9 +4,6 @@
 # Fecha de modificación:27/02/21 11:30pm                                    #
 # Versión: 3.9                                                              #
 #############################################################################
-# Se importa pytest
-import pytest
-
 
 # Corresponde el metodo check_char, este recibe como entrada "parametro"
 #   y verifica que cumpla con las condiciones, es decir:
