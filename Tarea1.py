@@ -1,3 +1,4 @@
+# ERR3x3 -4.5 Usan asserts cuando yo les pido retornar el codigo de error
 #############################################################################
 # Elaborado por: Andrey Astorga Bogantes y Kevin Chinchilla Gomez           #
 # Fecha de creación: 27/02/21 8:30am                                        #

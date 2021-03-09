@@ -1,3 +1,7 @@
+# ERR 2 -2.5
+# ERR5x3 -4.5
+# No les pongo el error4 porque la funcion internamente hace el assert
+# pero sepan que la idea era que el test fuera el unico que hiciera asserts
 from Tarea1 import check_char
 from Tarea1 import caps_switch
 abecedario1 = ['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U','V','W','X','Y','Z']
